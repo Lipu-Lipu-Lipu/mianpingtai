@@ -1,0 +1,17 @@
+# —— 运行时数据（含真实面试数据与 AI Key，切勿提交）——
+data.snapshot.json
+*.snapshot.json
+
+# —— 依赖与本地环境 ——
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# —— 系统与编辑器 ——
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/

@@ -1,0 +1,14 @@
+{
+  "name": "interview-desk",
+  "version": "1.0.0",
+  "description": "面评台 · 面向社团/活动招新的小型面试在线评分汇总工具",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
